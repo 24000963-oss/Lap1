@@ -1,0 +1,8 @@
+D:\lập trình .net\lap1\lap1\bin\Debug\lap1.exe.config
+D:\lập trình .net\lap1\lap1\bin\Debug\lap1.exe
+D:\lập trình .net\lap1\lap1\bin\Debug\lap1.pdb
+D:\lập trình .net\lap1\lap1\obj\Debug\lap1.csproj.AssemblyReference.cache
+D:\lập trình .net\lap1\lap1\obj\Debug\lap1.csproj.CoreCompileInputs.cache
+D:\lập trình .net\lap1\lap1\obj\Debug\lap1.exe
+D:\lập trình .net\lap1\lap1\obj\Debug\lap1.pdb
+D:\lập trình .net\lap1\lap1\obj\Debug\lap1.exe.config
